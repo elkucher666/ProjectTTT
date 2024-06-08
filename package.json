@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.19.2",
+    "nod": "^0.2.0",
     "node-telegram-bot-api": "^0.66.0",
     "telegraf": "^4.16.3"
   }
